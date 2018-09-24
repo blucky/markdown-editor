@@ -1,0 +1,17 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/blucky/markdown-editor.git",
+  "author": "Blucky <github@blucky.org>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1",
+    "webpack-stream": "^5.1.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.8"
+  }
+}
